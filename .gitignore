@@ -48,5 +48,8 @@ Thumbs.db
 # txt files
 *.txt
 
-
+*/bin/
+.classpath
+.project
+.settings
 
